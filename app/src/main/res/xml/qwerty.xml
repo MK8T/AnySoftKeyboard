@@ -25,9 +25,9 @@
         <Key android:codes="101" android:popupKeyboard="@xml/popup_qwerty_e"/>
         <Key android:codes="114" android:popupCharacters="4řŕṛρ"/>
         <Key android:codes="116" android:popupCharacters="5þṭțť\u0163ŧτ"/>
-        <Key android:codes="121" android:popupCharacters="6ýÿŷψ"/>
+        <Key android:codes="121" android:popupCharacters="6ýÿŷỹψ"/>
         <Key android:codes="117" android:popupKeyboard="@xml/popup_qwerty_u"/>
-        <Key android:codes="105" android:popupCharacters="8ıìíîïīǐι*"/>
+        <Key android:codes="105" android:popupCharacters="8ıìíîïīĩǐι*"/>
         <Key android:codes="111" android:popupCharacters="9òóôǒōõöőøơœo"/>
         <Key android:codes="112" android:popupCharacters="0π" android:keyEdgeFlags="right"/>
     </Row>
