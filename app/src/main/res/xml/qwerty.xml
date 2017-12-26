@@ -26,7 +26,7 @@
         <Key android:codes="114" android:popupCharacters="4řŕṛρ"/>
         <Key android:codes="116" android:popupCharacters="5þṭțť\u0163ŧτ"/>
         <Key android:codes="121" android:popupCharacters="6ýÿŷỹψ"/>
-        <Key android:codes="117" android:popupCharacters="7ùúǔûüŭűūũůųυ"/>
+        <Key android:codes="117" android:popupCharacters="7ùúǔûüŭűūũůųưυ"/>
         <Key android:codes="105" android:popupCharacters="8ıìíîïīĩǐįι*"/>
         <Key android:codes="111" android:popupCharacters="9òóôǒōõöőøơœo"/>
         <Key android:codes="112" android:popupCharacters="0π" android:keyEdgeFlags="right"/>
